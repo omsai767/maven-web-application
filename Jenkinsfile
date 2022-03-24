@@ -1,4 +1,4 @@
-node('nodes'){
+node('whatsappnode-1'){
 
 def mavenHome = tool name:'Maven-3.8.2',type:'maven'
 
