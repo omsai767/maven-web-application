@@ -1,4 +1,4 @@
-node{
+node('nodes'){
 
 def mavenHome = tool name:'Maven-3.8.2',type:'maven'
 
