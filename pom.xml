@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>omsai Snapshot Nexus Repository </name>
+	      <name>omsai Snapshot Nexus Repository</name>
 	      <url>http://3.1.8.152:9980/omsai/repository/whatsapp-snapshot/</url>
 	    </snapshotRepository>
 	    
